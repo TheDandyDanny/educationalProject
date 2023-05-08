@@ -56,3 +56,13 @@ for (let i = 1; i < length; i++) {
 }
 
 console.log(result);
+
+
+if (4 == 9) {
+	console.log('Ok!')
+} else {
+	console.log('Ne OK!')
+}
+
+const num = 50;
+(num === 50) ? console.log('Ok!') : console.log('Ne Ok!');
